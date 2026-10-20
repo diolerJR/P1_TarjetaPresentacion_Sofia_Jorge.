@@ -24,4 +24,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "P1_TarjetaPresentacion_Sofia_Jorge"
 include(":app")
- 
